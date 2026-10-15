@@ -1,4 +1,4 @@
 exports.handler = async () => ({
     statusCode: 200,
-    body: "Hello World from Lambda",
+    body: "Hello World from Node!",
 });
